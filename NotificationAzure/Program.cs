@@ -11,9 +11,8 @@ namespace NotificationAzure
         static void Main(string[] args)
         {
             Notification notification = new Notification();
-            notification.getContactInfo("c488065f-7ce8-4d3b-804d-5796cb4bd75f").Wait();
+            notification.getContactInfo("0e3ac379-3e27-44c3-a43c-07e9c3f56b88").Wait();
             notification.execute().Wait();
-            Console.ReadLine();
         }
     }
 }

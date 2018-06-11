@@ -8,3 +8,13 @@ c:\users\t-aagupt\source\repos\NotificationAzure\NotificationAzure\bin\Debug\New
 c:\users\t-aagupt\source\repos\NotificationAzure\NotificationAzure\obj\Debug\NotificationAzure.csproj.CopyComplete
 c:\users\t-aagupt\source\repos\NotificationAzure\NotificationAzure\obj\Debug\NotificationAzure.exe
 c:\users\t-aagupt\source\repos\NotificationAzure\NotificationAzure\obj\Debug\NotificationAzure.pdb
+C:\source\Azure-Function-Notification\NotificationAzure\bin\Debug\NotificationAzure.exe.config
+C:\source\Azure-Function-Notification\NotificationAzure\bin\Debug\NotificationAzure.exe
+C:\source\Azure-Function-Notification\NotificationAzure\bin\Debug\NotificationAzure.pdb
+C:\source\Azure-Function-Notification\NotificationAzure\bin\Debug\Newtonsoft.Json.dll
+C:\source\Azure-Function-Notification\NotificationAzure\bin\Debug\Newtonsoft.Json.xml
+C:\source\Azure-Function-Notification\NotificationAzure\obj\Debug\NotificationAzure.csprojAssemblyReference.cache
+C:\source\Azure-Function-Notification\NotificationAzure\obj\Debug\NotificationAzure.csproj.CoreCompileInputs.cache
+C:\source\Azure-Function-Notification\NotificationAzure\obj\Debug\NotificationAzure.csproj.CopyComplete
+C:\source\Azure-Function-Notification\NotificationAzure\obj\Debug\NotificationAzure.exe
+C:\source\Azure-Function-Notification\NotificationAzure\obj\Debug\NotificationAzure.pdb
