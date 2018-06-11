@@ -1,0 +1,10 @@
+c:\users\t-aagupt\source\repos\NotificationAzure\NotificationAzure\obj\Debug\NotificationAzure.csprojAssemblyReference.cache
+c:\users\t-aagupt\source\repos\NotificationAzure\NotificationAzure\obj\Debug\NotificationAzure.csproj.CoreCompileInputs.cache
+c:\users\t-aagupt\source\repos\NotificationAzure\NotificationAzure\bin\Debug\NotificationAzure.exe.config
+c:\users\t-aagupt\source\repos\NotificationAzure\NotificationAzure\bin\Debug\NotificationAzure.exe
+c:\users\t-aagupt\source\repos\NotificationAzure\NotificationAzure\bin\Debug\NotificationAzure.pdb
+c:\users\t-aagupt\source\repos\NotificationAzure\NotificationAzure\bin\Debug\Newtonsoft.Json.dll
+c:\users\t-aagupt\source\repos\NotificationAzure\NotificationAzure\bin\Debug\Newtonsoft.Json.xml
+c:\users\t-aagupt\source\repos\NotificationAzure\NotificationAzure\obj\Debug\NotificationAzure.csproj.CopyComplete
+c:\users\t-aagupt\source\repos\NotificationAzure\NotificationAzure\obj\Debug\NotificationAzure.exe
+c:\users\t-aagupt\source\repos\NotificationAzure\NotificationAzure\obj\Debug\NotificationAzure.pdb
